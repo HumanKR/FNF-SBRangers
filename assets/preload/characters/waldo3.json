@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				5
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "drwaldothird idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "drwaldothird Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "drwaldothird Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "drwaldothird Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-93
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "drwaldothird Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-36,
+				-46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "growl",
+			"loop": false,
+			"name": "drwaldothird growl"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/drwaldo3_assets",
+	"position": [
+		-90,
+		20
+	],
+	"healthicon": "drwaldo",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		40,
+		60
+	],
+	"camera_position": [
+		20,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

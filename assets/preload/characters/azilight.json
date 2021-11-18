@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AR idle"
+		},
+		{
+			"offsets": [
+				19,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AR LEFT0"
+		},
+		{
+			"offsets": [
+				-35,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AR RIGHT0"
+		},
+		{
+			"offsets": [
+				31,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AR UP0"
+		},
+		{
+			"offsets": [
+				27,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AR DOWN0"
+		},
+		{
+			"offsets": [
+				23,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "AR LEFT MISS"
+		},
+		{
+			"offsets": [
+				29,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "AR DOWN MISS"
+		},
+		{
+			"offsets": [
+				31,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "AR UP MISS"
+		},
+		{
+			"offsets": [
+				-48,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "AR RIGHT MISS"
+		},
+		{
+			"offsets": [
+				80,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "AR dies"
+		},
+		{
+			"offsets": [
+				80,
+				-134
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "AR Dead Loop"
+		},
+		{
+			"offsets": [
+				83,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "AR Dead confirm"
+		},
+		{
+			"offsets": [
+				98,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "AR dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/azlight_assets",
+	"position": [
+		50,
+		30
+	],
+	"healthicon": "azi-alt",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		180
+	],
+	"camera_position": [
+		160,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

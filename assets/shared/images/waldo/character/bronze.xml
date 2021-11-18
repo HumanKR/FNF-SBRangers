@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bronze.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bronze0000" x="10" y="10" width="2369" height="1521" frameX="-6" frameY="-6" frameWidth="2382" frameHeight="1527"/>
+	<SubTexture name="bronze0001" x="2389" y="10" width="2369" height="1521" frameX="-6" frameY="-6" frameWidth="2382" frameHeight="1527"/>
+	<SubTexture name="bronze0002" x="4768" y="10" width="2370" height="1522" frameX="-5" frameY="-5" frameWidth="2382" frameHeight="1527"/>
+	<SubTexture name="bronze0003" x="10" y="1542" width="2370" height="1522" frameX="-5" frameY="-5" frameWidth="2382" frameHeight="1527"/>
+	<SubTexture name="bronze0004" x="2390" y="1542" width="2373" height="1524" frameX="-3" frameY="-3" frameWidth="2382" frameHeight="1527"/>
+	<SubTexture name="bronze0005" x="2390" y="1542" width="2373" height="1524" frameX="-3" frameY="-3" frameWidth="2382" frameHeight="1527"/>
+	<SubTexture name="bronze0006" x="4773" y="1542" width="2376" height="1526" frameX="-2" frameY="-1" frameWidth="2382" frameHeight="1527"/>
+	<SubTexture name="bronze0007" x="10" y="3078" width="2376" height="1526" frameX="-2" frameY="-1" frameWidth="2382" frameHeight="1527"/>
+	<SubTexture name="bronze0008" x="2396" y="3078" width="2382" height="1527"/>
+	<SubTexture name="bronze0009" x="4788" y="3078" width="2382" height="1527"/>
+	<SubTexture name="bronze0010" x="10" y="4615" width="2382" height="1527"/>
+	<SubTexture name="bronze0011" x="10" y="4615" width="2382" height="1527"/>
+	<SubTexture name="bronze0012" x="2402" y="4615" width="2382" height="1527"/>
+	<SubTexture name="bronze0013" x="4794" y="4615" width="2382" height="1527"/>
+</TextureAtlas>

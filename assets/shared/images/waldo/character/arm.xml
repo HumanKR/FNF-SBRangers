@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arm.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="diamond attack10000" x="10" y="10" width="358" height="462" frameX="0" frameY="0" frameWidth="1551" frameHeight="1611"/>
+	<SubTexture name="diamond attack10001" x="378" y="10" width="1074" height="1151" frameX="0" frameY="0" frameWidth="1551" frameHeight="1611"/>
+	<SubTexture name="diamond attack10002" x="1462" y="10" width="1313" height="1381" frameX="0" frameY="0" frameWidth="1551" frameHeight="1611"/>
+	<SubTexture name="diamond attack10003" x="2785" y="10" width="1452" height="1515" frameX="0" frameY="0" frameWidth="1551" frameHeight="1611"/>
+	<SubTexture name="diamond attack10004" x="4247" y="10" width="1527" height="1588" frameX="0" frameY="0" frameWidth="1551" frameHeight="1611"/>
+	<SubTexture name="diamond attack10005" x="5784" y="10" width="1551" height="1611"/>
+	<SubTexture name="diamond attack20000" x="10" y="1631" width="1551" height="1611" frameX="0" frameY="0" frameWidth="2849" frameHeight="2519"/>
+	<SubTexture name="diamond attack20001" x="1571" y="1631" width="2849" height="2519"/>
+	<SubTexture name="diamond attack20002" x="4430" y="1631" width="2828" height="2519" frameX="0" frameY="0" frameWidth="2849" frameHeight="2519"/>
+	<SubTexture name="diamond attack20003" x="4430" y="1631" width="2828" height="2519" frameX="0" frameY="0" frameWidth="2849" frameHeight="2519"/>
+	<SubTexture name="diamond attack20004" x="4430" y="1631" width="2828" height="2519" frameX="0" frameY="0" frameWidth="2849" frameHeight="2519"/>
+	<SubTexture name="diamond attack20005" x="10" y="4160" width="2828" height="2519" frameX="0" frameY="0" frameWidth="2849" frameHeight="2519"/>
+	<SubTexture name="diamond attack20006" x="2848" y="4160" width="2284" height="849" frameX="0" frameY="0" frameWidth="2849" frameHeight="2519"/>
+	<SubTexture name="diamond attack20007" x="5142" y="4160" width="2035" height="75" frameX="0" frameY="0" frameWidth="2849" frameHeight="2519"/>
+	<SubTexture name="diamond attack20008" x="5142" y="4160" width="2035" height="75" frameX="5453" frameY="-1172" frameWidth="2849" frameHeight="2519"/>
+	<SubTexture name="diamond attack20009" x="5142" y="4160" width="2035" height="75" frameX="0" frameY="0" frameWidth="2849" frameHeight="2519"/>
+	<SubTexture name="diamond attack20010" x="10" y="6689" width="2057" height="144" frameX="0" frameY="0" frameWidth="2849" frameHeight="2519"/>
+</TextureAtlas>

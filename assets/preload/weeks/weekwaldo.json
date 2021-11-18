@@ -1,0 +1,48 @@
+{
+	"storyName": "dr.waldo",
+	"hideFreeplay": false,
+	"weekBackground": "waldo",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"kickstart",
+			"drwaldo",
+			[
+				255,
+				140,
+				140
+			]
+		],
+		[
+			"warm-ups",
+			"drwaldo",
+			[
+				255,
+				120,
+				120
+			]
+		],
+		[
+			"overdrive",
+			"drwaldo",
+			[
+				255,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"waldo",
+		"azi",
+		""
+	],
+	"weekName": "weekwaldo"
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="azilight_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="azilight0000" x="10" y="10" width="275" height="105" frameX="-35" frameY="-52" frameWidth="374" frameHeight="182"/>
+	<SubTexture name="azilight0001" x="10" y="125" width="374" height="182"/>
+</TextureAtlas>

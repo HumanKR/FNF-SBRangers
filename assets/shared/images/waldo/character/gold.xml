@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gold.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gold0000" x="10" y="10" width="2378" height="1473" frameX="-5" frameY="-5" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0001" x="2398" y="10" width="2378" height="1473" frameX="-5" frameY="-5" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0002" x="4786" y="10" width="2379" height="1474" frameX="-4" frameY="-4" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0003" x="10" y="1494" width="2379" height="1474" frameX="-4" frameY="-4" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0004" x="2399" y="1494" width="2381" height="1474" frameX="-3" frameY="-3" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0005" x="2399" y="1494" width="2381" height="1474" frameX="-3" frameY="-3" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0006" x="4790" y="1494" width="2384" height="1474" frameX="-2" frameY="-2" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0007" x="10" y="2978" width="2384" height="1474" frameX="-2" frameY="-2" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0008" x="2404" y="2978" width="2390" height="1476" frameX="0" frameY="0" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0009" x="4804" y="2978" width="2390" height="1476" frameX="0" frameY="0" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0010" x="10" y="4464" width="2390" height="1476" frameX="0" frameY="0" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0011" x="10" y="4464" width="2390" height="1476" frameX="0" frameY="0" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0012" x="2410" y="4464" width="2390" height="1476" frameX="0" frameY="0" frameWidth="2390" frameHeight="1478"/>
+	<SubTexture name="gold0013" x="4810" y="4464" width="2390" height="1476" frameX="0" frameY="0" frameWidth="2390" frameHeight="1478"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				71,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "WA S left"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "WA S0"
+		},
+		{
+			"offsets": [
+				144,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "WA S right"
+		},
+		{
+			"offsets": [
+				40,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "WA S down"
+		},
+		{
+			"offsets": [
+				14,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "WA S up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/drwaldo2_assets",
+	"position": [
+		0,
+		-100
+	],
+	"healthicon": "drwaldo",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		40,
+		60
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

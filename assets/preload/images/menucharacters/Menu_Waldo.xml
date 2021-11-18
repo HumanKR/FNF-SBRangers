@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Waldo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dr.wa0000" x="10" y="10" width="372" height="255" frameX="0" frameY="-7" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0001" x="10" y="10" width="372" height="255" frameX="0" frameY="-7" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0002" x="392" y="10" width="364" height="260" frameX="-9" frameY="-1" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0003" x="392" y="10" width="364" height="260" frameX="-9" frameY="-1" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0004" x="10" y="280" width="364" height="262" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0005" x="10" y="280" width="364" height="262" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0006" x="384" y="280" width="363" height="262" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0007" x="384" y="280" width="363" height="262" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0008" x="10" y="552" width="362" height="261" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0009" x="10" y="552" width="362" height="261" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0010" x="10" y="552" width="362" height="261" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0011" x="10" y="552" width="362" height="261" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0012" x="10" y="552" width="362" height="261" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+	<SubTexture name="Dr.wa0013" x="10" y="552" width="362" height="261" frameX="-10" frameY="0" frameWidth="374" frameHeight="262"/>
+</TextureAtlas>

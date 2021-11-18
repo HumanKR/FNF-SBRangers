@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drwaldo3_assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="drwaldothird Sing Note DOWN0000" x="10" y="10" width="621" height="840" frameX="0" frameY="-9" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0001" x="10" y="10" width="621" height="840" frameX="0" frameY="-9" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0002" x="641" y="10" width="616" height="850" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0003" x="641" y="10" width="616" height="850" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0004" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0005" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0006" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0007" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0008" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0009" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0010" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0011" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0012" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note DOWN0013" x="1267" y="10" width="616" height="849" frameX="0" frameY="0" frameWidth="621" frameHeight="850"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0000" x="1893" y="10" width="467" height="930" frameX="0" frameY="-6" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0001" x="1893" y="10" width="467" height="930" frameX="0" frameY="-6" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0002" x="2370" y="10" width="459" height="937" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0003" x="2370" y="10" width="459" height="937" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0004" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0005" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0006" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0007" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0008" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0009" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0010" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0011" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0012" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note LEFT0013" x="2839" y="10" width="459" height="936" frameX="0" frameY="0" frameWidth="467" frameHeight="937"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0000" x="3308" y="10" width="674" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0001" x="3308" y="10" width="674" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0002" x="10" y="957" width="669" height="811" frameX="0" frameY="-1" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0003" x="10" y="957" width="669" height="811" frameX="0" frameY="-1" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0004" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0005" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0006" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0007" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0008" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0009" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0010" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0011" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0012" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note RIGHT0013" x="689" y="957" width="669" height="811" frameX="0" frameY="0" frameWidth="674" frameHeight="812"/>
+	<SubTexture name="drwaldothird Sing Note UP0000" x="1368" y="957" width="419" height="940" frameX="0" frameY="-3" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0001" x="1368" y="957" width="419" height="940" frameX="0" frameY="-3" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0002" x="1797" y="957" width="417" height="943" frameX="-5" frameY="0" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0003" x="1797" y="957" width="417" height="943" frameX="-5" frameY="0" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0004" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0005" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0006" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0007" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0008" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0009" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0010" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0011" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0012" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird Sing Note UP0013" x="2224" y="957" width="416" height="941" frameX="-5" frameY="-1" frameWidth="422" frameHeight="943"/>
+	<SubTexture name="drwaldothird growl0000" x="2650" y="957" width="605" height="857"/>
+	<SubTexture name="drwaldothird growl0001" x="3265" y="957" width="581" height="822" frameX="-18" frameY="-35" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0002" x="10" y="1910" width="570" height="805" frameX="-26" frameY="-52" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0003" x="590" y="1910" width="565" height="797" frameX="-29" frameY="-60" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0004" x="1165" y="1910" width="563" height="793" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0005" x="1738" y="1910" width="562" height="792" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0006" x="2310" y="1910" width="562" height="792" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0007" x="2882" y="1910" width="562" height="792" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0008" x="2882" y="1910" width="562" height="792" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0009" x="1738" y="1910" width="562" height="792" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0010" x="2310" y="1910" width="562" height="792" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0011" x="2882" y="1910" width="562" height="792" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0012" x="2882" y="1910" width="562" height="792" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird growl0013" x="1738" y="1910" width="562" height="792" frameX="-31" frameY="-64" frameWidth="605" frameHeight="857"/>
+	<SubTexture name="drwaldothird idle dance0000" x="3454" y="1910" width="476" height="913" frameX="0" frameY="0" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0001" x="3454" y="1910" width="476" height="913" frameX="0" frameY="0" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0002" x="10" y="2833" width="476" height="907" frameX="-1" frameY="-3" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0003" x="10" y="2833" width="476" height="907" frameX="-1" frameY="-3" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0004" x="496" y="2833" width="475" height="906" frameX="-2" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0005" x="496" y="2833" width="475" height="906" frameX="-2" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0006" x="981" y="2833" width="475" height="905" frameX="-1" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0007" x="981" y="2833" width="475" height="905" frameX="-1" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0008" x="981" y="2833" width="475" height="905" frameX="-1" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0009" x="981" y="2833" width="475" height="905" frameX="-1" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0010" x="981" y="2833" width="475" height="905" frameX="-1" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0011" x="981" y="2833" width="475" height="905" frameX="-1" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0012" x="981" y="2833" width="475" height="905" frameX="-1" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0013" x="981" y="2833" width="475" height="905" frameX="-1" frameY="-4" frameWidth="477" frameHeight="913"/>
+	<SubTexture name="drwaldothird idle dance0014" x="981" y="2833" width="475" height="905" frameX="-1" frameY="-4" frameWidth="477" frameHeight="913"/>
+</TextureAtlas>

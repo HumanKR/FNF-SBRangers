@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "waldo",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Ahahahaha! Did you really think you could defeat me, THE Dr.Waldo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "azi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I thought we had him down!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "waldo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You fool! Now I shall show you the real terror of this ingenious engineer!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "megagu",
+			"boxState": "angry",
+			"expression": "talk2",
+			"text": "It's no use!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "waldo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You... you are...!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "megagu",
+			"boxState": "angry",
+			"expression": "talk2",
+			"text": "As long as we heroes stand, you'll always fall!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "walsun",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We will see about that."
+		}
+	]
+}

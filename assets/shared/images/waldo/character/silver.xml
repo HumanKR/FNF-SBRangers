@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="silver.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="silver0000" x="10" y="10" width="2378" height="1495" frameX="-10" frameY="-7" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0001" x="2398" y="10" width="2378" height="1495" frameX="-10" frameY="-7" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0002" x="4786" y="10" width="2380" height="1495" frameX="-8" frameY="-5" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0003" x="10" y="1515" width="2380" height="1495" frameX="-8" frameY="-5" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0004" x="2400" y="1515" width="2384" height="1496" frameX="-5" frameY="-3" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0005" x="2400" y="1515" width="2384" height="1496" frameX="-5" frameY="-3" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0006" x="4794" y="1515" width="2388" height="1496" frameX="-3" frameY="-2" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0007" x="10" y="3021" width="2388" height="1496" frameX="-3" frameY="-2" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0008" x="2408" y="3021" width="2395" height="1496" frameX="0" frameY="0" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0009" x="4813" y="3021" width="2395" height="1496" frameX="0" frameY="0" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0010" x="10" y="4527" width="2395" height="1496" frameX="0" frameY="0" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0011" x="10" y="4527" width="2395" height="1496" frameX="0" frameY="0" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0012" x="2415" y="4527" width="2395" height="1496" frameX="0" frameY="0" frameWidth="2395" frameHeight="1502"/>
+	<SubTexture name="silver0013" x="4820" y="4527" width="2395" height="1496" frameX="0" frameY="0" frameWidth="2395" frameHeight="1502"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "AR hey",
+	"idle_anim": "AR idle",
+	"position": [
+		140,
+		114
+	],
+	"scale": 0.7,
+	"image": "Menu_Azi"
+}

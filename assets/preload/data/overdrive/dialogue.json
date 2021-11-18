@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "waldo",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "KKIIEEEEEEEEK!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "waldo",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "My greatest....inventions....!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "azi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Master! We did it...!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "megagu",
+			"boxState": "angry",
+			"expression": "talk2",
+			"text": "*gasp*"
+		},
+		{
+			"speed": 0.2,
+			"portrait": "azi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "azi",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "MASTER!"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "megagu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Impossible... I can't use my power...."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "megagu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Waldo... he truly prepared\\nsomething tremendous...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "azi",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "MASTER!!!"
+		},
+		{
+			"speed": 0.25,
+			"portrait": "megagu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm sorry, Azi..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "waldo",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "You'll pay with your life for looking down on me! Mega-Gu!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "walsun",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Farewell."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "waldo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What.... What the!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "azi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...He told us."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "azi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No matter what hardships you face,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "azi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You must keep your courage and pride."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "azilight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And fight against evil."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "azilight",
+			"boxState": "angry",
+			"expression": "talk2",
+			"text": "THAT'S WHAT WE HEROES DO!"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="megagu.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="megagu0000" x="0" y="0" width="433" height="936" frameX="0" frameY="-7" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0001" x="0" y="0" width="433" height="936" frameX="0" frameY="-7" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0002" x="433" y="0" width="436" height="938" frameX="0" frameY="-6" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0003" x="433" y="0" width="436" height="938" frameX="0" frameY="-6" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0004" x="869" y="0" width="438" height="940" frameX="0" frameY="-4" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0005" x="869" y="0" width="438" height="940" frameX="0" frameY="-4" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0006" x="1307" y="0" width="441" height="941" frameX="0" frameY="-2" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0007" x="1307" y="0" width="441" height="941" frameX="0" frameY="-2" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0008" x="1748" y="0" width="443" height="943" frameX="0" frameY="0" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0009" x="1748" y="0" width="443" height="943" frameX="0" frameY="0" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0010" x="1748" y="0" width="443" height="943" frameX="0" frameY="0" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0011" x="1748" y="0" width="443" height="943" frameX="0" frameY="0" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0012" x="1748" y="0" width="443" height="943" frameX="0" frameY="0" frameWidth="443" frameHeight="944"/>
+	<SubTexture name="megagu0013" x="1748" y="0" width="443" height="943" frameX="0" frameY="0" frameWidth="443" frameHeight="944"/>
+</TextureAtlas>

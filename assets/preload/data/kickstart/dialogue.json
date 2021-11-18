@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Welcome to the secret lab of the dark world, ladies and gentleman.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "waldo"
+		},
+		{
+			"expression": "talk",
+			"text": "You have applied to be part of my\\n new experiment as a precious labrat!",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "waldo"
+		},
+		{
+			"expression": "talk",
+			"text": "I, mechanical engineer, Dr.Waldo, will be in charge of this experiment that will make a mark in history.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "waldo"
+		},
+		{
+			"expression": "talk",
+			"text": "I am grateful for your participation.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waldo"
+		},
+		{
+			"expression": "talk",
+			"text": "and I'm Walsun.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "walsun"
+		},
+		{
+			"expression": "angry",
+			"text": "Who's calling us 'labrats?'",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "azi"
+		},
+		{
+			"expression": "talk",
+			"text": "That, of course,",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "walsun"
+		},
+		{
+			"expression": "angry",
+			"text": "Has been decided by I, 'DR. Waldo'!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "waldo"
+		}
+	]
+}
