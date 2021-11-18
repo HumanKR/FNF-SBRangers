@@ -2,7 +2,7 @@
 	"song": {
 		"player1": "azi",
 		"sectionLengths": [],
-		"gfVersion": "gf",
+		"gfVersion": "gf-megagu",
 		"notes": [
 			{
 				"endTime": 1714.28571428571,
@@ -28840,7 +28840,7 @@
 				"value": 140
 			}
 		],
-		"player3": "gf",
+		"player3": "gf-megagu",
 		"song": "Warm-Ups",
 		"stage": "waldoSecondStage",
 		"validScore": true,

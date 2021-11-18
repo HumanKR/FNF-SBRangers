@@ -106,6 +106,14 @@ class Character extends FlxSprite
 
 				playAnim('danceRight');
 
+			case 'gf-megagu':
+				frames = Paths.getSparrowAtlas('characters/megagu_assets');
+				animation.addByPrefix('idle', 'megagu', 24, false);
+
+				addOffset('idle', 0);
+
+				playAnim('idle');
+
 			default:
 				var characterPath:String = 'characters/' + curCharacter + '.json';
 				#if MODS_ALLOWED

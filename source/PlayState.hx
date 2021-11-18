@@ -320,14 +320,17 @@ class PlayState extends MusicBeatState
 		CustomFadeTransition.nextCamera = camOther;
 		//FlxG.cameras.setDefaultDrawTarget(camGame, true);
 
-		camGame.setFilters(effects);
-		camHUD.setFilters(effects);
-		camOther.setFilters(effects);
-		camGame.filtersEnabled = true;
-		camHUD.filtersEnabled = true;
-		camOther.filtersEnabled = true;
+		if (ClientPrefs.flashing)
+		{
+			camGame.setFilters(effects);
+			camHUD.setFilters(effects);
+			camOther.setFilters(effects);
+			camGame.filtersEnabled = true;
+			camHUD.filtersEnabled = true;
+			camOther.filtersEnabled = true;
 
-		effects.push(rgbSplit);
+			effects.push(rgbSplit);
+		}
 
 		/*darkColor = FlxColor.BLACK;
 		darkColor.alphaFloat = 0.5;
@@ -451,7 +454,7 @@ class PlayState extends MusicBeatState
 				//hazard seems fix lag like this... or not?
 				robot2.alpha = 0.01;
 
-				if(!ClientPrefs.lowQuality)
+				if(ClientPrefs.globalAntialiasing)
 					bg.antialiasing = true;
 					/*red.antialiasing = true;
 					bronze.antialiasing = true;*/
@@ -467,9 +470,14 @@ class PlayState extends MusicBeatState
 				sky.updateHitbox();
 				add(sky);
 
-				var airship:BGSprite = new BGSprite('waldo/background/airship', 344.55, -1042.5, 1, 1, ['airship'], true);
-				airship.updateHitbox();
-				add(airship);
+				var airship:BGSprite;
+				if(!ClientPrefs.lowQuality) {
+					airship = new BGSprite('waldo/background/airship', 344.55, -1042.5, 1, 1, ['airship'], true);
+					airship.updateHitbox();
+					if(ClientPrefs.globalAntialiasing)
+						airship.antialiasing = true;
+					add(airship);
+				}
 				
 				var bg:BGSprite = new BGSprite('waldo/background/bgsecond', -1676, -1041, 1, 1);
 				bg.updateHitbox();	
@@ -479,29 +487,34 @@ class PlayState extends MusicBeatState
 				robot.updateHitbox();
 				add(robot);
 
-				var megagu:BGSprite = new BGSprite('waldo/character/megagu', 1232.5, -204.45, 1, 1, ['megagu'], true);
+				/*var megagu:BGSprite = new BGSprite('waldo/character/megagu', 1232.5, -204.45, 1, 1, ['megagu'], true);
 				megagu.updateHitbox();
-				add(megagu);
+				add(megagu);*/
 
-				stone1 = new BGSprite('waldo/background/stoneone', 450.1, -1642.55, 1, 1, ['stoneone'], true);
-				stone1.updateHitbox();
+				if(!ClientPrefs.lowQuality) {
+					stone1 = new BGSprite('waldo/background/stoneone', 450.1, -1642.55, 1, 1, ['stoneone'], true);
+					stone1.updateHitbox();
+					
+					stone2 = new BGSprite('waldo/background/stonetwo', 1056.05, -1504.6, 1, 1, ['stonetwo'], true);
+					stone2.updateHitbox();
+					
+					stone3 = new BGSprite('waldo/background/stonethree', 176.75, -1330.2, 1, 1, ['stonethree'], true);
+					stone3.updateHitbox();
 
-				stone2 = new BGSprite('waldo/background/stonetwo', 1056.05, -1504.6, 1, 1, ['stonetwo'], true);
-				stone2.updateHitbox();
+					if(ClientPrefs.globalAntialiasing)
+						stone1.antialiasing = true;
+						stone2.antialiasing = true;
+						stone3.antialiasing = true;
+				}
 
-				stone3 = new BGSprite('waldo/background/stonethree', 176.75, -1330.2, 1, 1, ['stonethree'], true);
-				stone3.updateHitbox();
-
-				if(!ClientPrefs.lowQuality)
+				if(ClientPrefs.globalAntialiasing)
+				{
 					bg.antialiasing = true;
 					robot.antialiasing = true;
 					sky.antialiasing = true;
-					airship.antialiasing = true;
 					bg.antialiasing = true;
-					megagu.antialiasing = true;
-					stone1.antialiasing = true;
-					stone2.antialiasing = true;
-					stone3.antialiasing = true;
+					//megagu.antialiasing = true;
+				}
 
 			case 'waldoFinalStage':
 				GameOverSubstate.deathSoundName = 'azi_loss_sfx';
@@ -512,17 +525,33 @@ class PlayState extends MusicBeatState
 				bg.updateHitbox();	
 				add(bg);
 
-				var diamond:FlxSprite = new FlxSprite(-1522, -1057.05);
-				trace('try diamond load!');
+				var diamond:FlxSprite;
+				var diamondLow:BGSprite;
+				if(!ClientPrefs.lowQuality)
+				{
+					diamond = new FlxSprite(-1522, -1057.05);
+					trace('try diamond load!');
 
-				diamond.frames = AtlasFrameMaker.construct('assets/shared/images/waldo/character/diamond');
-				diamond.animation.add("Idle", [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38], 24, true);
-				diamond.animation.play("Idle");
-				trace('animation play!');
-				diamond.scrollFactor.set(0.8, 0.8);
-				trace('try add diamond!');
-				diamond.updateHitbox();
-				add(diamond);
+					diamond.frames = AtlasFrameMaker.construct('assets/shared/images/waldo/character/diamond');
+					diamond.animation.add("Idle", [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38], 24, true);
+					diamond.animation.play("Idle");
+					trace('animation play!');
+					diamond.scrollFactor.set(0.8, 0.8);
+					trace('try add diamond!');
+					diamond.updateHitbox();
+					if(ClientPrefs.globalAntialiasing)
+						diamond.antialiasing = true;
+					add(diamond);
+				}
+				else
+				{
+					diamondLow = new BGSprite('waldo/character/diamond_low', -1522, -1057.05, 0.8, 0.8);
+					diamondLow.updateHitbox();
+					if(ClientPrefs.globalAntialiasing)
+						diamondLow.antialiasing = true;
+					add(diamondLow);
+				}
+
 
 				diaArm = new FlxSprite(-474.85, -1156.25);
 				diaArm.frames = Paths.getSparrowAtlas('waldo/character/arm');
@@ -538,11 +567,12 @@ class PlayState extends MusicBeatState
 				diaArm2.updateHitbox();
 				add(diaArm2);
 
-				if(!ClientPrefs.lowQuality)
+				if(ClientPrefs.globalAntialiasing)
+				{
 					bg.antialiasing = true;
-					diamond.antialiasing = true;
 					diaArm.antialiasing = true;
 					diaArm2.antialiasing = true;
+				}
 
 			case 'stage': //Week 1
 				var bg:BGSprite = new BGSprite('stageback', -600, -200, 0.9, 0.9);
@@ -919,7 +949,7 @@ class PlayState extends MusicBeatState
 		startCharacterPos(boyfriend);
 		boyfriendGroup.add(boyfriend);
 
-		if(curStage == 'waldoSecondStage')
+		if(curStage == 'waldoSecondStage' && !ClientPrefs.lowQuality)
 		{
 			add(stone1);
 			add(stone2);
@@ -945,7 +975,7 @@ class PlayState extends MusicBeatState
 				var evilTrail = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 				insert(members.indexOf(dadGroup) - 1, evilTrail);
 
-			case 'waldoSecondStage' | 'waldoFinalStage':
+			case 'waldoFinalStage':
 				gf.visible = false;
 		}
 

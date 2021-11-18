@@ -508,7 +508,7 @@ class TitleState extends MusicBeatState
 					addMoreText('To');
 				// credTextShit.text += '\nNight';
 				case 17://15
-					addMoreText('Dr.Waldo'); // credTextShit.text += '\nFunkin';
+					addMoreText('Dr.Wardo'); // credTextShit.text += '\nFunkin';
 				case 18:
 					deleteCoolText();
 				case 19://16

@@ -16,7 +16,7 @@
 		},
 		{
 			"expression": "talk",
-			"text": "I, mechanical engineer, Dr.Waldo, will be in charge of this experiment that will make a mark in history.",
+			"text": "I, mechanical engineer, Dr.Wardo, will be in charge of this experiment that will make a mark in history.",
 			"boxState": "normal",
 			"speed": 0.03,
 			"portrait": "waldo"
